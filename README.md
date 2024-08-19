@@ -4,7 +4,7 @@ This project aims to develop a machine learning model capable of predicting cust
 Methodology
 
     Exploratory Data Analysis (EDA): Summarize key insights from EDA, including visualizations and statistical summaries.
-    Model Selection: Selected Four Classification Algorithms i.e SVC,DecisionTressClassifier,Logistic Regression, ANN .
+    Model Selection: Selected Four Classification Algorithms i.e SVC,DecisionTressClassifier,Logistic Regression, ANN(Aritificial Neural Network) .
     Model Evaluation: Accuracy, Precision, Recall, F1-score, ROC curve etc.
 Dependencies
 
